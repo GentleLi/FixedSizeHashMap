@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FixedSizeHashMap</string>
+    <string name="add">添加</string>
+    <string name="get_element">获取元素</string>
+</resources>
